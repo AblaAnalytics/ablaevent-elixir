@@ -25,7 +25,7 @@ defmodule Posthog.MixProject do
 
   defp package do
     [
-      name: :posthog,
+      name: :ablaevent,
       files: ["lib", "mix.exs", "README.md", "LICENSE"],
       maintainers: ["Nick Kezhaya"],
       licenses: ["MIT"],
