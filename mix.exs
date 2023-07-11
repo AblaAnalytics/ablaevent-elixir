@@ -3,7 +3,7 @@ defmodule Posthog.MixProject do
 
   def project do
     [
-      app: :posthog,
+      app: :ablaevent,
       version: "0.1.0",
       elixir: "~> 1.8",
       start_permanent: Mix.env() == :prod,
