@@ -1,6 +1,6 @@
-# Posthog
+# Ablaevent
 
-This library provides an HTTP client for Posthog.
+This library provides an HTTP client for Ablaevent.
 
 ## Installation
 
