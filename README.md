@@ -4,12 +4,12 @@ This library provides an HTTP client for Ablaevent.
 
 ## Installation
 
-The package can be installed by adding `posthog` to your list of dependencies in `mix.exs`:
+The package can be installed by adding `elixir` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:posthog, "~> 0.1"}
+    {ablaevent, "~> 0.1"}
   ]
 end
 ```
