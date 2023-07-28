@@ -17,6 +17,6 @@ end
 ````
 config :posthog,
     api_url: "https://e.abla.io",
-    api_key: "phc_ySCF4YinUf6DxprJ5B0jXtzgijeTqFkWPsIIfC3yTrC"
+    api_key: "PHC"
 
 ````

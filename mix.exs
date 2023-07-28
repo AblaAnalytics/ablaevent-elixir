@@ -19,7 +19,7 @@ defmodule Posthog.MixProject do
 
   defp description do
     """
-    Elixir HTTP client for Posthog.
+    Elixir HTTP client for Ablaevent.
     """
   end
 
